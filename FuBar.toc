@@ -29,6 +29,6 @@ FuBar-Locale-enUS.lua
 FuBar-Locale-deDE.lua
 FuBar-Locale-koKR.lua
 FuBar-Locale-zhCN.lua
-FuBar-Locale-koKR.lua
+FuBar-Locale-ruRU.lua
 FuBar_Panel.lua
 FuBar.lua
