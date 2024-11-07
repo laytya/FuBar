@@ -3,6 +3,7 @@
 ## Notes: A panel that modules can plug into.
 ## Notes-deDE: Eine Leiste in der sich Module einbinden können.
 ## Notes-frFR: Un panneau dans lequel des modules peuvent se brancher.
+## Notes-ruRU: Панели для отображения различных плагинов.
 ## Notes-zhCN: 插件式信息面板。
 ## Author: ckknight
 ## X-eMail: ckknight@gmail.com
