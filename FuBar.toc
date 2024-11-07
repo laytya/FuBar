@@ -27,10 +27,8 @@ libs\Dewdrop-2.0\Dewdrop-2.0.lua
 libs\Jostle-2.0\Jostle-2.0.lua
 FuBar-Locale-enUS.lua
 FuBar-Locale-deDE.lua
-FuBar-Locale-frFR.lua
 FuBar-Locale-koKR.lua
 FuBar-Locale-zhCN.lua
-FuBar-Locale-zhTW.lua
 FuBar-Locale-koKR.lua
 FuBar_Panel.lua
 FuBar.lua
